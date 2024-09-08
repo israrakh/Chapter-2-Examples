@@ -1,8 +1,7 @@
-// Chapter 2 Examples.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+// Chapter 2 Examples.cpp
 
 #include <iostream>
-
+using namespace std;
 int main()
 {
 // This program calculates and displays the several values
