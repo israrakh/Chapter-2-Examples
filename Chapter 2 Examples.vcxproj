@@ -129,6 +129,9 @@
   <ItemGroup>
     <ClCompile Include="Chapter 2 Examples.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Calculating_Percentage.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

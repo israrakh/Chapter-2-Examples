@@ -15,7 +15,6 @@ int main()
 	reducedPrice = regularPrice - discountAmount;
 	cout << "The discount amount is $" << discountAmount << endl;
 	cout << "The discounted price is $" << reducedPrice;
-
-	return 0;
-   
+  
+	return 0; 
 }
