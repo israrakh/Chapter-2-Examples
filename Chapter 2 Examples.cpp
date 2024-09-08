@@ -20,13 +20,7 @@ int main()
 		contribution2 << endl;
 	cout << "Amount of contribution at " << percent3 << "% is $" <<
 		contribution3 << endl;
-	
-	
-	cout << "_______________________________________________" << endl;
-
-
-	
-	
+		
 	return 0;
    
 }
